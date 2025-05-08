@@ -1,5 +1,5 @@
 # Robin-Boyd-site (Assessment 3: Responsive website)
-In the final assessment, I I was required to turn my high-fidelity prototype into a fully functional responsive website using HTML5 and CSS
+In the final assessment, I was required to turn my high-fidelity prototype into a fully functional responsive website using HTML5 and CSS
 # Robin Boyd Responsive Website
 
 ## Reflection
